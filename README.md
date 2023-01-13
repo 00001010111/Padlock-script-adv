@@ -1,2 +1,5 @@
-# Padlock-script-adv
-Padlock system with chat command
+# Not finish!
+
+#TODO:
+Add cfg file and add other system in this reposistery
+
